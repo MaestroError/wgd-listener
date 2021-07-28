@@ -1,0 +1,21 @@
+{
+  "history": "http://wgd.test/history.php",
+  "txt_dowload": "http://wgd.test/",
+  "url_dowload": "http://wgd.test/",
+  "speed_limits": [
+      "500k",
+      "1m",
+      "2m",
+      "5m"
+    ],
+  "folders": [
+      "movies",
+      "trailers",
+      "movies/horror"
+    ],
+  "default_speed_limit": "",
+  "continue": false,
+  "http": false,
+  "folder_txt": "",
+  "commands_link": "http://wgd.test/commands.php"
+}

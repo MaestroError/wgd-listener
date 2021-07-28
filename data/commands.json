@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Apply format: .mp4", 
+      "action": "add", 
+      "target":"fileName",
+      "value":".mp4"
+    },
+    {
+      "name": "Apply Folder: /trailers", 
+      "action": "set", 
+      "target":"folder",
+      "value":"/trailers"
+    },
+    {
+      "name": "Apply if empty Folder: /test", 
+      "action": "setIfEmpty", 
+      "target":"folder",
+      "value":"/test"
+    }
+]
